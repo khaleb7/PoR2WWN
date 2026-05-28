@@ -1,0 +1,2950 @@
+{
+  "system": "wwn",
+  "pack": "tow-actors-monsters",
+  "actors": [
+    {
+      "id": "TOW-MON-001",
+      "name": "Aboleth",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 801
+        }
+      },
+      "system": {
+        "notes": "HD 10, AC 16a, Atk +10, Dmg 1d8+2, Shock 3/-, Move 40\u2019S, ML 10, Inst 2, Skill +3, Save 8+."
+      }
+    },
+    {
+      "id": "TOW-MON-002",
+      "name": "Fragile Object",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 864
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 10, Atk +2, Dmg 1d4, Shock 1/15, Move 20\u2019, ML 12, Inst 4, Skill +2, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-003",
+      "name": "Armor",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 879
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 16gp, Atk +4, Dmg 1d6+1, Shock 2/15, Move 20\u2019, ML 12, Inst 4, Skill +2, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-004",
+      "name": "Large Object",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 882
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 17, Atk +5, Dmg 2d8, Shock 2/20, Move 40\u2019, ML 12, Inst 4, Skill +2, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-005",
+      "name": "Rug",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 893
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 13, Atk +4, Dmg Wpn, Shock Wpn, Move 15\u2019, ML 12, Inst 4, Skill +2, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-006",
+      "name": "Young Basilisk",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1071
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 14, Atk +2, Dmg 1d6, Shock 1/13, Move 30\u2019, ML 7, Inst 6, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-007",
+      "name": "Basilisk",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1074
+        }
+      },
+      "system": {
+        "notes": "HD 6, AC 16, Atk +5, Dmg 1d10+1, Shock 3/15, Move 20\u2019, ML 9, Inst 5, Skill +1, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-008",
+      "name": "Birdman",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1168
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 12a, Atk +1, Dmg 1d4, Shock 1/13, Move 30\u2019F, ML 7, Inst 6, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-009",
+      "name": "Vine Blight",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1187
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 15, Atk +4, Dmg 1d8+1, Shock 2/18, Move 30\u2019, ML 11, Inst 4, Skill +2, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-010",
+      "name": "Tree Blight",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1190
+        }
+      },
+      "system": {
+        "notes": "HD 15, AC 18a, Atk +15, Dmg Wpn, Shock Wpn, Move 20\u2019, ML 11, Inst 3, Skill +2, Save 8+."
+      }
+    },
+    {
+      "id": "TOW-MON-011",
+      "name": "Boiler",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1297
+        }
+      },
+      "system": {
+        "notes": "HD 12, AC 18a, Atk +12x2, Dmg Wpn, Shock Wpn, Move 40\u2019, ML 12, Inst 4, Skill +1, Save 9+."
+      }
+    },
+    {
+      "id": "TOW-MON-012",
+      "name": "Boiler Lice",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1338
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 12, Atk +1, Dmg 1d6, Shock 1/13, Move 30\u2019, ML 12, Inst 5, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-013",
+      "name": "Bonesnapper",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1362
+        }
+      },
+      "system": {
+        "notes": "HD 5, AC 15, Atk +6, Dmg 1d12+2, Shock 3/20, Move 40\u2019, ML 8, Inst 5, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-014",
+      "name": "Brainoid",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1438
+        }
+      },
+      "system": {
+        "notes": "HD 8, AC 15a, Atk +6, Dmg 1d4, Shock 1/15, Move 25\u2019, ML 9, Inst 2, Skill +2, Save 10+."
+      }
+    },
+    {
+      "id": "TOW-MON-015",
+      "name": "Brain Hound",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1445
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 13, Atk +4, Dmg 1d6+1, Shock 2/15, Move 40\u2019, ML 9, Inst 3, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-016",
+      "name": "Bugbear",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1594
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 14a, Atk +4, Dmg 1d10+1, Shock 3/15, Move 30\u2019, ML 8, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-017",
+      "name": "Bulette",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1623
+        }
+      },
+      "system": {
+        "notes": "HD 8, AC 20a, Atk +9, Dmg 3d6+3, Shock 6/18, Move 40\u2019BJ, ML 8, Inst 5, Skill +1, Save 11+."
+      }
+    },
+    {
+      "id": "TOW-MON-018",
+      "name": "Catoblepas",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1654
+        }
+      },
+      "system": {
+        "notes": "HD 6, AC 13, Atk +6, Dmg 1d6, Shock 2/15, Move 30\u2019, ML 7, Inst 5, Skill +1, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-019",
+      "name": "Centaur",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1697
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 12, Atk +2, Dmg 1d6+2, Shock 3/15, Move 40\u2019, ML 8, Inst 6, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-020",
+      "name": "Chimera",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1747
+        }
+      },
+      "system": {
+        "notes": "HD 9, AC 14, Atk +9x3, Dmg Wpn, Shock Wpn, Move 60\u2019F, ML 10, Inst 3, Skill +2, Save 11+."
+      }
+    },
+    {
+      "id": "TOW-MON-021",
+      "name": "Choker",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1797
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 13, Atk +2, Dmg Wpn, Shock Wpn, Move 30\u2019AC, ML 5, Inst 4, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-022",
+      "name": "Chuul",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1919
+        }
+      },
+      "system": {
+        "notes": "HD 10, AC 18a, Atk +10x2, Dmg Wpn, Shock Wpn, Move 25\u2019S, ML 9, Inst 5, Skill +1, Save 10+."
+      }
+    },
+    {
+      "id": "TOW-MON-023",
+      "name": "Cloaking Ray",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 1968
+        }
+      },
+      "system": {
+        "notes": "HD 6, AC 13, Atk +6, Dmg 1d6, Shock 1/15, Move 30\u2019F, ML 7, Inst 4, Skill +2, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-024",
+      "name": "Cyclops",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2126
+        }
+      },
+      "system": {
+        "notes": "HD 12, AC 13a, Atk +8, Dmg 3d6, Shock 3/18, Move 40\u2019, ML 9, Inst 5, Skill +2, Save 9+."
+      }
+    },
+    {
+      "id": "TOW-MON-025",
+      "name": "Death Dog",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2156
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 14, Atk +3x2, Dmg Wpn, Shock Wpn, Move 40\u2019, ML 9, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-026",
+      "name": "Chain Demon",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2242
+        }
+      },
+      "system": {
+        "notes": "HD 8, AC 17a, Atk +8, Dmg 1d8+1, Shock 2/15, Move 30\u2019, ML 10, Inst 3, Skill +1, Save 11+."
+      }
+    },
+    {
+      "id": "TOW-MON-027",
+      "name": "Succubus",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2269
+        }
+      },
+      "system": {
+        "notes": "HD 6, AC 13, Atk +6, Dmg 1d12, Shock 1/-, Move 30\u2019F, ML 9, Inst 3, Skill +1, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-028",
+      "name": "Ankylosaurus",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2412
+        }
+      },
+      "system": {
+        "notes": "HD 10, AC 17a, Atk +10, Dmg 3d6, Shock 3/20, Move 20\u2019, ML 8, Inst 5, Skill +1, Save 10+."
+      }
+    },
+    {
+      "id": "TOW-MON-029",
+      "name": "Utahraptor",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2413
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 15, Atk +4, Dmg 1d8+1, Shock 2/18, Move 40\u2019, ML 10, Inst 2, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-030",
+      "name": "Pteranodon",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2415
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 13, Atk +2, Dmg 1d6, Shock 1/13, Move 60\u2019F, ML 6, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-031",
+      "name": "Plesiosaur",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2416
+        }
+      },
+      "system": {
+        "notes": "HD 14, AC 13, Atk +14, Dmg Wpn, Shock Wpn, Move 60\u2019S, ML 4, Inst 3, Skill +1, Save 8+."
+      }
+    },
+    {
+      "id": "TOW-MON-032",
+      "name": "Dilophosaurus",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2422
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 14, Atk +1, Dmg 1d6, Shock 1/14, Move 30\u2019, ML 8, Inst 4, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-033",
+      "name": "Stegosaurus",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2424
+        }
+      },
+      "system": {
+        "notes": "HD 16, AC 15a, Atk +8, Dmg Wpn, Shock Wpn, Move 30\u2019, ML 6, Inst 5, Skill +1, Save 7+."
+      }
+    },
+    {
+      "id": "TOW-MON-034",
+      "name": "Mosasaurus",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2426
+        }
+      },
+      "system": {
+        "notes": "HD 16, AC 17a, Atk +18, Dmg 3d10, Shock 3/15, Move 50\u2019S, ML 9, Inst 3, Skill +2, Save 7+."
+      }
+    },
+    {
+      "id": "TOW-MON-035",
+      "name": "Triceratops",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2427
+        }
+      },
+      "system": {
+        "notes": "HD 14, AC 15a, Atk +14, Dmg 2d12, Shock 2/-, Move 40\u2019, ML 7, Inst 4, Skill +1, Save 8+."
+      }
+    },
+    {
+      "id": "TOW-MON-036",
+      "name": "Maiasaura",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2433
+        }
+      },
+      "system": {
+        "notes": "HD 9, AC 14a, Atk +4, Dmg 1d12, Shock 1/15, Move 50\u2019, ML 5, Inst 4, Skill +1, Save 11+."
+      }
+    },
+    {
+      "id": "TOW-MON-037",
+      "name": "Brachiosaurus",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2434
+        }
+      },
+      "system": {
+        "notes": "HD 20, AC 16a, Atk +10, Dmg 4d10, Shock 4/-, Move 40\u2019, ML 6, Inst 4, Skill +2, Save 5+."
+      }
+    },
+    {
+      "id": "TOW-MON-038",
+      "name": "Drow Warrior",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2733
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 13a, Atk +2, Dmg 1d6, Shock 2/15, Move 30\u2019W, ML 7, Inst 5, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-039",
+      "name": "Drow Mage",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2762
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 10, Atk +0, Dmg 1d6, Shock 1/13, Move 30\u2019W, ML 7, Inst 6, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-040",
+      "name": "Drow Acolyte",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 2773
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 11a, Atk +1, Dmg 1d4, Shock 1/15, Move 30\u2019W, ML 7, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-041",
+      "name": "Air Elemental",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 3071
+        }
+      },
+      "system": {
+        "notes": "HD 6, AC 16, Atk +6, Dmg 1d6+1, Shock 2/18, Move 40\u2019AH, ML 12, Inst 4, Skill +2, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-042",
+      "name": "Ettin",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 3109
+        }
+      },
+      "system": {
+        "notes": "HD 9, AC 12a, Atk +9x2, Dmg 2d8+2, Shock 4/16, Move 35\u2019, ML 7, Inst 7, Skill +1, Save 11+."
+      }
+    },
+    {
+      "id": "TOW-MON-043",
+      "name": "Killer Frog",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 3363
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 12, Atk +1, Dmg 1d6, Shock 1/15, Move 30\u2019CJS, ML 9, Inst 4, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-044",
+      "name": "Frogman",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 3365
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 11a, Atk +1, Dmg Wpn, Shock Wpn, Move 20\u2019CJS, ML 5, Inst 7, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-045",
+      "name": "Violet Fungus",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 3434
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 10, Atk +2, Dmg Wpn, Shock Wpn, Move 10\u2019, ML 11, Inst 3, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-046",
+      "name": "Spore Slave",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 3503
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 10, Atk +1, Dmg 1d4+1, Shock 2/13, Move 30\u2019, ML 12, Inst 7, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-047",
+      "name": "Fungoid Royal",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 3509
+        }
+      },
+      "system": {
+        "notes": "HD 8, AC 10, Atk +4x2, Dmg Wpn, Shock Wpn, Move 5\u2019, ML 7, Inst 3, Skill +1, Save 11+."
+      }
+    },
+    {
+      "id": "TOW-MON-048",
+      "name": "Gargoyle",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 3586
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 20, Atk +4, Dmg 1d8, Shock 3/15, Move 20\u2019C, ML 12, Inst 4, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-049",
+      "name": "Ghoul",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 3694
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 12, Atk +3, Dmg Wpn, Shock Wpn, Move 30\u2019, ML 12, Inst 6, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-050",
+      "name": "Ghast",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 3698
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 13, Atk +4, Dmg Wpn, Shock Wpn, Move 30\u2019, ML 12, Inst 4, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-051",
+      "name": "Giant",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 3766
+        }
+      },
+      "system": {
+        "notes": "HD 14, AC 15a, Atk +16x2, Dmg 3d6+2, Shock 5/-, Move 40\u2019, ML 9, Inst 5, Skill +2, Save 8+."
+      }
+    },
+    {
+      "id": "TOW-MON-052",
+      "name": "Giant Mage",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 3786
+        }
+      },
+      "system": {
+        "notes": "HD 17, AC 14a, Atk +5, Dmg 2d6+2, Shock 4/-, Move 40\u2019, ML 8, Inst 5, Skill +2, Save 7+."
+      }
+    },
+    {
+      "id": "TOW-MON-053",
+      "name": "Gnoll Hunter",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 3825
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 12a, Atk +3, Dmg 1d1+1, Shock 3/15, Move 40\u2019, ML 9, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-054",
+      "name": "Gnoll",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 3835
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 11a, Atk +2, Dmg 1d6+1, Shock 2/15, Move 40\u2019, ML 9, Inst 6, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-055",
+      "name": "Goblin",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 3927
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 13a, Atk +1, Dmg 1d6, Shock 2/15, Move 20\u2019C, ML 7, Inst 4, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-056",
+      "name": "Grick",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 4061
+        }
+      },
+      "system": {
+        "notes": "HD 6, AC 15a, Atk +6x2, Dmg 1d6, Shock 2/13, Move 30\u2019, ML 8, Inst 5, Skill +4, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-057",
+      "name": "Harpy",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 4203
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 13, Atk +1x2, Dmg 1d4+1, Shock 2/13, Move 40\u2019F, ML 5, Inst 4, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-058",
+      "name": "Hell Hound",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 4254
+        }
+      },
+      "system": {
+        "notes": "HD 7, AC 16a, Atk +7, Dmg 1d10+1, Shock 3/15, Move 40\u2019, ML 9, Inst 4, Skill +1, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-059",
+      "name": "Young Kraken",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 4565
+        }
+      },
+      "system": {
+        "notes": "HD 14, AC 13, Atk +14x3, Dmg 4d6+2, Shock 6/-, Move 50\u2019S, ML 9, Inst 4, Skill +2, Save 8+."
+      }
+    },
+    {
+      "id": "TOW-MON-060",
+      "name": "Kraken",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 4577
+        }
+      },
+      "system": {
+        "notes": "HD 24, AC 18a, Atk +24x4, Dmg 2d20+8, Shock 10/-, Move 100\u2019DS, ML 11, Inst 1, Skill +4, Save 3+."
+      }
+    },
+    {
+      "id": "TOW-MON-061",
+      "name": "Wererat",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 4826
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 14a, Atk +2, Dmg Wpn, Shock Wpn, Move 30\u2019C, ML 6, Inst 3, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-062",
+      "name": "Wereskunk",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 4844
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 12, Atk +3, Dmg Wpn, Shock Wpn, Move 30\u2019, ML 7, Inst 4, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-063",
+      "name": "Manticore",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 4968
+        }
+      },
+      "system": {
+        "notes": "HD 7, AC 15, Atk +7x3, Dmg 1d6+1, Shock 3/20, Move 60\u2019F, ML 9, Inst 5, Skill +1, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-064",
+      "name": "Medusa",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5004
+        }
+      },
+      "system": {
+        "notes": "HD 7, AC 11, Atk +3x3, Dmg 1d4, Shock 1/13, Move 30\u2019, ML 9, Inst 4, Skill +1, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-065",
+      "name": "Mermonster",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5040
+        }
+      },
+      "system": {
+        "notes": "HD 6, AC 14a, Atk +6x2, Dmg 1d8+1, Shock 2/18, Move 40\u2019S, ML 9, Inst 4, Skill +1, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-066",
+      "name": "Merman",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5047
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 10, Atk +0, Dmg 1d4, Shock 1/15, Move 40\u2019S, ML 7, Inst 6, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-067",
+      "name": "Mimic",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5061
+        }
+      },
+      "system": {
+        "notes": "HD 7, AC 13, Atk +7, Dmg 3d6+3, Shock 6/18, Move 5\u2019C, ML 10, Inst 4, Skill +1, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-068",
+      "name": "Mimic Polyp",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5066
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 11, Atk +2, Dmg 1d4, Shock 1/13, Move 5\u2019C, ML 10, Inst 6, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-069",
+      "name": "Minotaur",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5127
+        }
+      },
+      "system": {
+        "notes": "HD 8, AC 15a, Atk +6, Dmg 1d10+1, Shock 4/15, Move 35\u2019, ML 10, Inst 3, Skill +2, Save 11+."
+      }
+    },
+    {
+      "id": "TOW-MON-070",
+      "name": "Mudman",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5144
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 13, Atk +3, Dmg Wpn, Shock Wpn, Move 20\u2019, ML 8, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-071",
+      "name": "Mummy",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5188
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 10, Atk +4, Dmg 1d6, Shock 2/14, Move 20\u2019, ML 12, Inst 5, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-072",
+      "name": "Dream-Snake",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5339
+        }
+      },
+      "system": {
+        "notes": "HD 0, AC 15, Atk +1, Dmg 1d4, Shock 1/-, Move 15\u2019, ML 12, Inst 1, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-073",
+      "name": "Nothic",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5436
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 10, Atk +3, Dmg 1d6, Shock 1/3, Move 30\u2019C, ML 6, Inst 4, Skill +2, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-074",
+      "name": "Nightmare",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5461
+        }
+      },
+      "system": {
+        "notes": "HD 7, AC 13, Atk +7x2, Dmg 2d4+1, Shock 3/20, Move 60\u2019, ML 11, Inst 2, Skill +1, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-075",
+      "name": "Ogre",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5477
+        }
+      },
+      "system": {
+        "notes": "HD 6, AC 14a, Atk +6, Dmg 1d10+1, Shock 4/15, Move 30\u2019, ML 7, Inst 7, Skill +1, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-076",
+      "name": "Ochre Jelly",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5538
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 12, Atk +4, Dmg 1d6, Shock 1/-, Move 20\u2019AC, ML 12, Inst 7, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-077",
+      "name": "Orc",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5608
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 14a, Atk +3, Dmg 1d10+1, Shock 4/15, Move 30\u2019, ML 9, Inst 4, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-078",
+      "name": "Owlbear Cub",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5755
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 13a, Atk +1, Dmg 1d2+1, Shock 2/15, Move 20\u2019, ML 6, Inst 7, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-079",
+      "name": "Owlbear",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5757
+        }
+      },
+      "system": {
+        "notes": "HD 9, AC 16a, Atk +10x2, Dmg 1d10+2, Shock 4/20, Move 40\u2019, ML 9, Inst 3, Skill +2, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-080",
+      "name": "Peryton",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 5883
+        }
+      },
+      "system": {
+        "notes": "HD 5, AC 13, Atk +5, Dmg 2d6+1, Shock 3/13, Move 60\u2019F, ML 8, Inst 5, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-081",
+      "name": "Revenant",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 6038
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 12a, Atk +3, Dmg 1d6+1, Shock 2/12, Move 25\u2019, ML 12, Inst 7, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-082",
+      "name": "Roc",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 6114
+        }
+      },
+      "system": {
+        "notes": "HD 18, AC 16a, Atk +18x2, Dmg 3d6+6, Shock 9/-, Move 100\u2019DF, ML 10, Inst 4, Skill +3, Save 4+."
+      }
+    },
+    {
+      "id": "TOW-MON-083",
+      "name": "Roc Chick",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 6118
+        }
+      },
+      "system": {
+        "notes": "HD 8, AC 14a, Atk +8, Dmg 1d12+1, Shock 2/18, Move 50\u2019F, ML 6, Inst 6, Skill +1, Save 11+."
+      }
+    },
+    {
+      "id": "TOW-MON-084",
+      "name": "Reptillian",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 6146
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 12, Atk +2, Dmg 1d4, Shock 1/13, Move 30\u2019, ML 7, Inst 4, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-085",
+      "name": "Sahuagin",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 6296
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 14, Atk +2, Dmg 1d2+2, Shock 3/10, Move 30\u2019S, ML 8, Inst 4, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-086",
+      "name": "Scarecrow",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 6368
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 11, Atk +1, Dmg 1d4, Shock 1/13, Move 30\u2019, ML 12, Inst 5, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-087",
+      "name": "Skeletal Beast",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 6593
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 12, Atk +3, Dmg 1d6+1, Shock 2/13, Move 40\u2019, ML 12, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-088",
+      "name": "Stirge",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 6858
+        }
+      },
+      "system": {
+        "notes": "HD 0, AC 15, Atk +1, Dmg Wpn, Shock Wpn, Move 40\u2019F, ML 4, Inst 6, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-089",
+      "name": "Troll",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7009
+        }
+      },
+      "system": {
+        "notes": "HD 8, AC 15, Atk +8x2, Dmg 2d4+1, Shock 3/18, Move 35\u2019, ML 10, Inst 4, Skill +1, Save 11+."
+      }
+    },
+    {
+      "id": "TOW-MON-090",
+      "name": "Troll Limb",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7014
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 10, Atk +8, Dmg 1d4, Shock 1/13, Move 10\u2019, ML 10, Inst 6, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-091",
+      "name": "Unicorn",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7035
+        }
+      },
+      "system": {
+        "notes": "HD 6, AC 14, Atk +6, Dmg 1d6+1, Shock 2/15, Move 60\u2019, ML 7, Inst 5, Skill +1, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-092",
+      "name": "Vargouille",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7147
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 13, Atk +1, Dmg Wpn, Shock Wpn, Move 40\u2019F, ML 11, Inst 7, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-093",
+      "name": "Giant Worm",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7250
+        }
+      },
+      "system": {
+        "notes": "HD 22, AC 19a, Atk +22, Dmg 6d6+12, Shock 18/-, Move 40\u2019BD, ML 11, Inst 3, Skill +2, Save 3+."
+      }
+    },
+    {
+      "id": "TOW-MON-094",
+      "name": "Wyvern",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7418
+        }
+      },
+      "system": {
+        "notes": "HD 9, AC 18a, Atk +9x2, Dmg 1d12+1, Shock 2/16, Move 60\u2019F, ML 11, Inst 3, Skill +1, Save 11+."
+      }
+    },
+    {
+      "id": "TOW-MON-095",
+      "name": "Young Wyvern",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7428
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 16a, Atk +4x2, Dmg 1d8+1, Shock 2/13, Move 40\u2019F, ML 9, Inst 5, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-096",
+      "name": "Yeti",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7434
+        }
+      },
+      "system": {
+        "notes": "HD 8, AC 15, Atk +8, Dmg 1d10, Shock 1/18, Move 40\u2019C, ML 9, Inst 1, Skill +2, Save 11+."
+      }
+    },
+    {
+      "id": "TOW-MON-097",
+      "name": "Assassin",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7533
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 12a, Atk +3, Dmg 1d4+1, Shock 2/18, Move 30\u2019, ML 8, Inst 3, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-098",
+      "name": "Cult Herald",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7538
+        }
+      },
+      "system": {
+        "notes": "HD 6, AC 15, Atk +8, Dmg 1d12, Shock 2/18, Move 30\u2019, ML 11, Inst 3, Skill +2, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-099",
+      "name": "Blessed Cultist",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7543
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 13, Atk +3x2, Dmg 1d6, Shock 2/15, Move 35\u2019, ML 10, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-100",
+      "name": "Cultist",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7545
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 11a, Atk +1, Dmg 1d4, Shock 1/15, Move 30\u2019, ML 10, Inst 6, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-101",
+      "name": "Caveman",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7588
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 10, Atk +1, Dmg 1d10, Shock 2/15, Move 30\u2019, ML 6, Inst 6, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-102",
+      "name": "Bodyguard",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7591
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 13a, Atk +2, Dmg 1d6, Shock 2/15, Move 30\u2019, ML 9, Inst 3, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-103",
+      "name": "Berserker",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7593
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 13, Atk +2, Dmg 1d10, Shock 3/-, Move 30\u2019, ML 11, Inst 6, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-104",
+      "name": "Bandit",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7595
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 12a, Atk +1, Dmg 1d6, Shock 2/15, Move 30\u2019, ML 8, Inst 4, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-105",
+      "name": "Hunter",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7609
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 11, Atk +1, Dmg 1d6, Shock 1/15, Move 30\u2019, ML 7, Inst 5, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-106",
+      "name": "Healer",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7612
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 12a, Atk +2, Dmg 1d6, Shock 1/13, Move 30\u2019, ML 7, Inst 6, Skill +2, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-107",
+      "name": "Headsman",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7623
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 12a, Atk +3, Dmg 1d12+1, Shock 3/15, Move 30\u2019, ML 9, Inst 3, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-108",
+      "name": "Gladiator",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7629
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 15as, Atk +5, Dmg 1d4+1, Shock 2/18, Move 35\u2019, ML 9, Inst 3, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-109",
+      "name": "Noble",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7669
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 13a, Atk +2, Dmg 1d6, Shock 2/15, Move 30\u2019, ML 7, Inst 6, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-110",
+      "name": "Ninja",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7670
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 14, Atk +2, Dmg 1d8+1, Shock 3/13, Move 40\u2019, ML 9, Inst 3, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-111",
+      "name": "Musketeer",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7676
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 13a, Atk +1, Dmg 1d4, Shock 1/15, Move 30\u2019, ML 7, Inst 4, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-112",
+      "name": "Mercenary",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7683
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 15a, Atk +2, Dmg 1d6, Shock 1/18, Move 30\u2019, ML 8, Inst 3, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-113",
+      "name": "Militiaman",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7685
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 13a, Atk +1, Dmg 1d6, Shock 2/13, Move 30\u2019, ML 8, Inst 4, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-114",
+      "name": "Sailor",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7737
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 11, Atk +1, Dmg 1d6, Shock 1/15, Move 30\u2019, ML 7, Inst 6, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-115",
+      "name": "Ruffian",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7791
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 12a, Atk +1, Dmg 1d4, Shock 1/15, Move 30\u2019, ML 7, Inst 4, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-116",
+      "name": "Greater Null",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7805
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 15a, Atk +2, Dmg 1d6, Shock 2/15, Move 30\u2019, ML 9, Inst 4, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-117",
+      "name": "Pistoleer",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7809
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 11a, Atk +2, Dmg 1d4, Shock 1/15, Move 30\u2019, ML 7, Inst 4, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-118",
+      "name": "Warlord",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7823
+        }
+      },
+      "system": {
+        "notes": "HD 10, AC 18a, Atk +13x3, Dmg 1d6+3, Shock 5/-, Move 30\u2019, ML 11, Inst 1, Skill +3, Save 10+."
+      }
+    },
+    {
+      "id": "TOW-MON-119",
+      "name": "Tribesman",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7832
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 12, Atk +1, Dmg 1d6, Shock 2/13, Move 30\u2019, ML 7, Inst 5, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-120",
+      "name": "Squire",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7834
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 15a, Atk +2, Dmg 1d6, Shock 2/15, Move 30\u2019, ML 7, Inst 4, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-121",
+      "name": "Master Thief",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7835
+        }
+      },
+      "system": {
+        "notes": "HD 5, AC 14, Atk +5, Dmg 1d4+2, Shock 3/18, Move 35\u2019C, ML 8, Inst 2, Skill +2, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-122",
+      "name": "Witch Hunter",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7842
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 15a, Atk +4, Dmg 1d6, Shock 1/18, Move 30\u2019, ML 10, Inst 3, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-123",
+      "name": "Thief",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7847
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 11, Atk +1, Dmg 1d4, Shock 1/15, Move 30\u2019, ML 6, Inst 5, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-124",
+      "name": "Court Mage",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 7947
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 10, Atk +0, Dmg 1d6, Shock 1/13, Move 30\u2019, ML 7, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-125",
+      "name": "Elementalist",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8024
+        }
+      },
+      "system": {
+        "notes": "HD 7, AC 13a, Atk +2, Dmg 1d6, Shock 1/13, Move 30\u2019, ML 8, Inst 5, Skill +2, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-126",
+      "name": "Hedge Mage",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8051
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 10, Atk +0, Dmg 1d4, Shock 1/15, Move 30\u2019, ML 7, Inst 6, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-127",
+      "name": "High Mage",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8060
+        }
+      },
+      "system": {
+        "notes": "HD 8, AC 11, Atk +1, Dmg 1d6, Shock 1/13, Move 30\u2019, ML 8, Inst 4, Skill +2, Save 11+."
+      }
+    },
+    {
+      "id": "TOW-MON-128",
+      "name": "Necromancer",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8125
+        }
+      },
+      "system": {
+        "notes": "HD 6, AC 15, Atk +1, Dmg 1d4, Shock 1/18, Move 30\u2019, ML 7, Inst 4, Skill +2, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-129",
+      "name": "Ship\u2019s Wizard",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8156
+        }
+      },
+      "system": {
+        "notes": "HD 5, AC 13, Atk +5, Dmg 1d6, Shock 2/15, Move 30\u2019, ML 9, Inst 4, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-130",
+      "name": "Shaman",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8169
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 11a, Atk +0, Dmg 1d6, Shock 1/13, Move 30\u2019, ML 7, Inst 6, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-131",
+      "name": "Petty Tyrant",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8180
+        }
+      },
+      "system": {
+        "notes": "HD 5, AC 15a, Atk +1, Dmg 1d6+1, Shock 2/13, Move 30\u2019, ML 8, Inst 4, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-132",
+      "name": "War Mage",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8209
+        }
+      },
+      "system": {
+        "notes": "HD 5, AC 16a, Atk +1, Dmg 1d6, Shock 2/15, Move 30\u2019, ML 9, Inst 2, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-133",
+      "name": "Sword Mage",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8222
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 15a, Atk +5, Dmg 1d12, Shock 2/15, Move 30\u2019, ML 9, Inst 3, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-134",
+      "name": "Ape",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8303
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 12, Atk +1, Dmg 1d4, Shock 1/13, Move 30\u2019C, ML 6, Inst 5, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-135",
+      "name": "Barracuda",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8304
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 11, Atk +3, Dmg 1d6+1, Shock 1/15, Move 40\u2019S, ML 9, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-136",
+      "name": "Giant Bat",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8305
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 13, Atk +2, Dmg 2d4, Shock 2/13, Move 40\u2019F, ML 7, Inst 5, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-137",
+      "name": "Giant Ape",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8312
+        }
+      },
+      "system": {
+        "notes": "HD 20, AC 15a, Atk +20x2, Dmg 3d12, Shock 3/-, Move 50\u2019C, ML 10, Inst 5, Skill +2, Save 5+."
+      }
+    },
+    {
+      "id": "TOW-MON-138",
+      "name": "Brown Bear",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8318
+        }
+      },
+      "system": {
+        "notes": "HD 6, AC 14a, Atk +6x2, Dmg 1d8+1, Shock 2/18, Move 35\u2019, ML 8, Inst 4, Skill +1, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-139",
+      "name": "Polar Bear",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8321
+        }
+      },
+      "system": {
+        "notes": "HD 8, AC 15a, Atk +8x2, Dmg 1d10+1, Shock 2/-, Move 40\u2019S, ML 9, Inst 4, Skill +2, Save 11+."
+      }
+    },
+    {
+      "id": "TOW-MON-140",
+      "name": "Black Bear",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8324
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 13a, Atk +4, Dmg 1d6, Shock 1/14, Move 30\u2019C, ML 6, Inst 5, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-141",
+      "name": "Boar",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8350
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 13, Atk +3, Dmg 1d6+1, Shock 2/15, Move 40\u2019, ML 9, Inst 4, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-142",
+      "name": "Giant Boar",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8353
+        }
+      },
+      "system": {
+        "notes": "HD 5, AC 14a, Atk +5, Dmg 1d10+1, Shock 2/-, Move 50\u2019, ML 11, Inst 3, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-143",
+      "name": "Bison",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8355
+        }
+      },
+      "system": {
+        "notes": "HD 6, AC 13a, Atk +6, Dmg 1d10, Shock 1/-, Move 40\u2019, ML 7, Inst 6, Skill +1, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-144",
+      "name": "Giant Bird",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8358
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 13, Atk +4, Dmg 1d6, Shock 1/15, Move 60\u2019F, ML 8, Inst 4, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-145",
+      "name": "Giant Beetle",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8359
+        }
+      },
+      "system": {
+        "notes": "HD 7, AC 17a, Atk +7, Dmg 4d4, Shock 4/18, Move 30\u2019, ML 7, Inst 6, Skill +1, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-146",
+      "name": "Bull",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8373
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 13a, Atk +4, Dmg 1d8, Shock 1/15, Move 40\u2019, ML 8, Inst 5, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-147",
+      "name": "Camel",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8399
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 11, Atk +3, Dmg 1d4, Shock 1/13, Move 40\u2019, ML 7, Inst 6, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-148",
+      "name": "Crocodile",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8404
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 15a, Atk +3, Dmg Wpn, Shock Wpn, Move 30\u2019S, ML 7, Inst 4, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-149",
+      "name": "War Dog",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8418
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 14, Atk +1, Dmg 2d4, Shock 2/13, Move 40\u2019, ML 7, Inst 4, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-150",
+      "name": "Large Dog",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8420
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 13, Atk +2, Dmg 1d6, Shock 1/13, Move 30\u2019, ML 7, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-151",
+      "name": "Giant Eagle",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8426
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 13, Atk +4x2, Dmg 1d6, Shock 1/14, Move 60\u2019F, ML 8, Inst 5, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-152",
+      "name": "Giant Crab",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8428
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 17a, Atk +3, Dmg 2s4, Shock 2/15, Move 20\u2019, ML 7, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-153",
+      "name": "Cow",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8429
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 11, Atk +2, Dmg 1d6, Shock 1/13, Move 30\u2019, ML 6, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-154",
+      "name": "Emu",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8453
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 13, Atk +1, Dmg 1d6, Shock 1/13, Move 30\u2019, ML 7, Inst 5, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-155",
+      "name": "Giant Eel",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8456
+        }
+      },
+      "system": {
+        "notes": "HD 5, AC 14, Atk +5, Dmg 3d6, Shock 3/13, Move 30\u2019S, ML 8, Inst 5, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-156",
+      "name": "Elephant",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8460
+        }
+      },
+      "system": {
+        "notes": "HD 9, AC 13a, Atk +9, Dmg 2d8, Shock 2/18, Move 40\u2019, ML 7, Inst 5, Skill +1, Save 11+."
+      }
+    },
+    {
+      "id": "TOW-MON-157",
+      "name": "War Elephant",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8462
+        }
+      },
+      "system": {
+        "notes": "HD 12, AC 16a, Atk +13, Dmg 3d6, Shock 3/-, Move 35\u2019, ML 9, Inst 4, Skill +1, Save 9+."
+      }
+    },
+    {
+      "id": "TOW-MON-158",
+      "name": "Weed Eel",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8465
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 12, Atk +0, Dmg Wpn, Shock Wpn, Move 30\u2019S, ML 6, Inst 5, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-159",
+      "name": "Giant Frog",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8486
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 12, Atk +2, Dmg 1d4, Shock 1/13, Move 20\u2019J, ML 6, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-160",
+      "name": "Giant Lizard",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8503
+        }
+      },
+      "system": {
+        "notes": "HD 5, AC 16a, Atk +5, Dmg 1d8, Shock 1/13, Move 30\u2019C, ML 7, Inst 2, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-161",
+      "name": "Lion",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8504
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 15, Atk +5x2, Dmg 1d6+1, Shock 2/15, Move 40\u2019, ML 9, Inst 5, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-162",
+      "name": "Giant Lion",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8506
+        }
+      },
+      "system": {
+        "notes": "HD 10, AC 15a, Atk +10x2, Dmg 1d10+1, Shock 2/-, Move 40\u2019, ML 10, Inst 3, Skill +2, Save 10+."
+      }
+    },
+    {
+      "id": "TOW-MON-163",
+      "name": "Riding Horse",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8509
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 11, Atk +1, Dmg 1d4, Shock 1/13, Move 45\u2019, ML 6, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-164",
+      "name": "Draft Horse",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8518
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 11, Atk +2, Dmg 1d6, Shock 2/15, Move 30\u2019, ML 5, Inst 5, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-165",
+      "name": "Goat",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8519
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 13, Atk +1, Dmg 1d4, Shock 1/10, Move 40\u2019, ML 8, Inst 5, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-166",
+      "name": "Giant Octopus",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8520
+        }
+      },
+      "system": {
+        "notes": "HD 8, AC 13, Atk +8x6, Dmg 1d4, Shock 1/15, Move 40\u2019S, ML 8, Inst 3, Skill +1, Save 11+."
+      }
+    },
+    {
+      "id": "TOW-MON-167",
+      "name": "Giant Goat",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8521
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 12, Atk +4, Dmg 2d6, Shock 2/15, Move 40\u2019, ML 9, Inst 4, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-168",
+      "name": "Piranha",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8548
+        }
+      },
+      "system": {
+        "notes": "HD 0, AC 12, Atk +1, Dmg 1d2, Shock 1/10, Move 40\u2019S, ML 6, Inst 4, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-169",
+      "name": "Panther",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8556
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 15, Atk +3, Dmg 1d4+1, Shock 2/15, Move 40\u2019, ML 6, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-170",
+      "name": "Rhinoceros",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8579
+        }
+      },
+      "system": {
+        "notes": "HD 4, AC 14a, Atk +4, Dmg 1d6, Shock 1/13, Move 40\u2019, ML 9, Inst 5, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-171",
+      "name": "Scorpion",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8592
+        }
+      },
+      "system": {
+        "notes": "HD 0, AC 10, Atk +1, Dmg Wpn, Shock Wpn, Move 10\u2019, ML 9, Inst 4, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-172",
+      "name": "Hunter Shark",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8618
+        }
+      },
+      "system": {
+        "notes": "HD 6, AC 14, Atk +6x2, Dmg 1d8+1, Shock 2/16, Move 40\u2019S, ML 9, Inst 1, Skill +1, Save 12+."
+      }
+    },
+    {
+      "id": "TOW-MON-173",
+      "name": "Reef Shark",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8620
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 13, Atk +3, Dmg 1d4+1, Shock 2/16, Move 40\u2019S, ML 8, Inst 1, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-174",
+      "name": "Giant Shark",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8622
+        }
+      },
+      "system": {
+        "notes": "HD 10, AC 15a, Atk +10x2, Dmg 1d10+2, Shock 3/-, Move 40\u2019S, ML 11, Inst 1, Skill +2, Save 10+."
+      }
+    },
+    {
+      "id": "TOW-MON-175",
+      "name": "Sword Spider",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8658
+        }
+      },
+      "system": {
+        "notes": "HD 5, AC 17a, Atk +5x2, Dmg 1d12+1, Shock 2/18, Move 40\u2019CJ, ML 9, Inst 4, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-176",
+      "name": "Phase Spider",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8660
+        }
+      },
+      "system": {
+        "notes": "HD 5, AC 14a, Atk +5, Dmg Wpn, Shock Wpn, Move 30\u2019W, ML 6, Inst 5, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-177",
+      "name": "Giant Spider",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8664
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 14a, Atk +3, Dmg Wpn, Shock Wpn, Move 30\u2019W, ML 8, Inst 5, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-178",
+      "name": "Tree Strider",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8687
+        }
+      },
+      "system": {
+        "notes": "HD 8, AC 18a, Atk +8x2, Dmg 1d6, Shock 1/13, Move 40\u2019, ML 8, Inst 5, Skill +2, Save 11+."
+      }
+    },
+    {
+      "id": "TOW-MON-179",
+      "name": "Tiger",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8714
+        }
+      },
+      "system": {
+        "notes": "HD 5, AC 15, Atk +6x2, Dmg 1d8+1, Shock 2/18, Move 40\u2019, ML 10, Inst 3, Skill +1, Save 13+."
+      }
+    },
+    {
+      "id": "TOW-MON-180",
+      "name": "Wolf",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8716
+        }
+      },
+      "system": {
+        "notes": "HD 1, AC 13, Atk +1, Dmg 1d4+1, Shock 2/14, Move 40\u2019, ML 9, Inst 5, Skill +1, Save 15+."
+      }
+    },
+    {
+      "id": "TOW-MON-181",
+      "name": "Dire Wolf",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8718
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 14, Atk +4, Dmg 1d6+1, Shock 2/16, Move 40\u2019, ML 10, Inst 4, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-182",
+      "name": "Giant Vulture",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8720
+        }
+      },
+      "system": {
+        "notes": "HD 3, AC 11, Atk +3, Dmg 1d6, Shock 1/15, Move 40\u2019F, ML 8, Inst 3, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-183",
+      "name": "Giant Weasel",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8722
+        }
+      },
+      "system": {
+        "notes": "HD 2, AC 12, Atk +2x2, Dmg 1d4, Shock 1/13, Move 30\u2019B, ML 9, Inst 3, Skill +1, Save 14+."
+      }
+    },
+    {
+      "id": "TOW-MON-184",
+      "name": "Killer Whale",
+      "type": "monster",
+      "img": "icons/svg/mystery-man.svg",
+      "folder": "TOW Bestiary",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "line": 8726
+        }
+      },
+      "system": {
+        "notes": "HD 7, AC 12, Atk +7x2, Dmg 1d8, Shock 1/18, Move 50\u2019S, ML 9, Inst 4, Skill +2, Save 12+."
+      }
+    }
+  ]
+}
