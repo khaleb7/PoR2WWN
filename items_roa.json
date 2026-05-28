@@ -1,0 +1,3090 @@
+{
+  "system": "wwn",
+  "pack": "roa-items",
+  "items": [
+    {
+      "id": "ROA-ITM-001",
+      "name": "Anti-Undead Ward Powder",
+      "type": "item",
+      "img": "icons/svg/item-bag.svg",
+      "folder": "ROA Items / ROA-CH01",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH01",
+          "treasureTag": "ROA-CH01",
+          "sources": [
+            "WWN_MODULE"
+          ],
+          "tags": [
+            "anti-undead",
+            "consumable"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Anti-Undead Ward Powder \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: WWN_MODULE.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-002",
+      "name": "Council Writ of Reclamation",
+      "type": "item",
+      "img": "icons/svg/item-bag.svg",
+      "folder": "ROA Items / ROA-CH01",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH01",
+          "treasureTag": "ROA-CH01",
+          "sources": [
+            "WWN_MODULE"
+          ],
+          "tags": [
+            "proof",
+            "mission"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Council Writ of Reclamation \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: WWN_MODULE.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-003",
+      "name": "Silver Dagger",
+      "type": "weapon",
+      "img": "icons/weapons/daggers/dagger-simple-silver.webp",
+      "folder": "ROA Items / ROA-CH01",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH01",
+          "treasureTag": "ROA-CH01",
+          "sources": [
+            "WWN_MODULE"
+          ],
+          "tags": [
+            "silvered",
+            "shop"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Silver Dagger \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: WWN_MODULE.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d4",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-004",
+      "name": "Silver Longsword",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH01",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH01",
+          "treasureTag": "ROA-CH01",
+          "sources": [
+            "WWN_MODULE"
+          ],
+          "tags": [
+            "silvered",
+            "shop"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Silver Longsword \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: WWN_MODULE.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 13,
+          "dmg": 2
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-005",
+      "name": "Silver Mace",
+      "type": "weapon",
+      "img": "icons/weapons/maces/mace-round-steel.webp",
+      "folder": "ROA Items / ROA-CH01",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH01",
+          "treasureTag": "ROA-CH01",
+          "sources": [
+            "WWN_MODULE"
+          ],
+          "tags": [
+            "silvered",
+            "shop"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Silver Mace \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: WWN_MODULE.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 18,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-006",
+      "name": "Silver Shortsword",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH01",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH01",
+          "treasureTag": "ROA-CH01",
+          "sources": [
+            "WWN_MODULE"
+          ],
+          "tags": [
+            "silvered",
+            "shop"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Silver Shortsword \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: WWN_MODULE.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d6",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-007",
+      "name": "Silver Spear",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH01",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH01",
+          "treasureTag": "ROA-CH01",
+          "sources": [
+            "WWN_MODULE"
+          ],
+          "tags": [
+            "silvered",
+            "shop"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Silver Spear \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: WWN_MODULE.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 13,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-008",
+      "name": "Silvered Arrow Bundle (20)",
+      "type": "item",
+      "img": "icons/svg/item-bag.svg",
+      "folder": "ROA Items / ROA-CH01",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH01",
+          "treasureTag": "ROA-CH01",
+          "sources": [
+            "WWN_MODULE"
+          ],
+          "tags": [
+            "silvered",
+            "ammo"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Silvered Arrow Bundle (20) \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: WWN_MODULE.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-009",
+      "name": "Bracers of Defense +1",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH02",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH02",
+          "treasureTag": "ROA-CH02",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "armor",
+            "plus-one"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Bracers of Defense +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-010",
+      "name": "Chain Mail +1",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH02",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH02",
+          "treasureTag": "ROA-CH02",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "armor",
+            "plus-one"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Chain Mail +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-011",
+      "name": "Flail +1",
+      "type": "weapon",
+      "img": "icons/weapons/maces/mace-round-steel.webp",
+      "folder": "ROA Items / ROA-CH02",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH02",
+          "treasureTag": "ROA-CH02",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "weapon",
+            "plus-one"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Flail +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8+1",
+        "shock": {
+          "ac": 18,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-012",
+      "name": "Healing Potion (Minor)",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH02",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH02",
+          "treasureTag": "ROA-CH02",
+          "sources": [
+            "FRC1",
+            "WWN_MODULE"
+          ],
+          "tags": [
+            "potion"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Healing Potion (Minor) \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1, WWN_MODULE.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-013",
+      "name": "Leather Armor +1",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH02",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH02",
+          "treasureTag": "ROA-CH02",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "armor",
+            "plus-one"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Leather Armor +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-014",
+      "name": "Longsword +1",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH02",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH02",
+          "treasureTag": "ROA-CH02",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "weapon",
+            "plus-one"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Longsword +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8+1",
+        "shock": {
+          "ac": 13,
+          "dmg": 2
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-015",
+      "name": "Ring of Protection +1",
+      "type": "item",
+      "img": "icons/equipment/finger/ring-band-gold.webp",
+      "folder": "ROA Items / ROA-CH02",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH02",
+          "treasureTag": "ROA-CH02",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "ring",
+            "plus-one"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Ring of Protection +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-016",
+      "name": "Shield +1",
+      "type": "armor",
+      "img": "icons/equipment/shield/heater-steel.webp",
+      "folder": "ROA Items / ROA-CH02",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH02",
+          "treasureTag": "ROA-CH02",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "shield",
+            "plus-one"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Shield +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": true
+      }
+    },
+    {
+      "id": "ROA-ITM-017",
+      "name": "Shortbow +1",
+      "type": "weapon",
+      "img": "icons/weapons/bows/bow-recurve.webp",
+      "folder": "ROA Items / ROA-CH02",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH02",
+          "treasureTag": "ROA-CH02",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "weapon",
+            "plus-one"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Shortbow +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d6+1",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-018",
+      "name": "Wand of Zap (3 charges)",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH02",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH02",
+          "treasureTag": "ROA-CH02",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "wand"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Wand of Zap (3 charges) \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-019",
+      "name": "Mace +2",
+      "type": "weapon",
+      "img": "icons/weapons/maces/mace-round-steel.webp",
+      "folder": "ROA Items / ROA-CH03",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH03",
+          "treasureTag": "ROA-CH03",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "weapon",
+            "plus-two"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Mace +2 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8+2",
+        "shock": {
+          "ac": 18,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-020",
+      "name": "Warhammer +1",
+      "type": "weapon",
+      "img": "icons/weapons/maces/mace-round-steel.webp",
+      "folder": "ROA Items / ROA-CH03",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH03",
+          "treasureTag": "ROA-CH03",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "weapon",
+            "plus-one"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Warhammer +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8+1",
+        "shock": {
+          "ac": 18,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-021",
+      "name": "Bane Holy Symbol (Temple)",
+      "type": "item",
+      "img": "icons/svg/item-bag.svg",
+      "folder": "ROA Items / ROA-CH11",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH11",
+          "treasureTag": "ROA-CH11",
+          "sources": [
+            "FRC1",
+            "WWN_MODULE"
+          ],
+          "tags": [
+            "relic",
+            "story"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Bane Holy Symbol (Temple) \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1, WWN_MODULE.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-022",
+      "name": "Temple Relic Seal",
+      "type": "item",
+      "img": "icons/svg/item-bag.svg",
+      "folder": "ROA Items / ROA-CH11",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH11",
+          "treasureTag": "ROA-CH11",
+          "sources": [
+            "WWN_MODULE"
+          ],
+          "tags": [
+            "relic"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Temple Relic Seal \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: WWN_MODULE.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-023",
+      "name": "Nomad Fire Spirit Hoard Weapon +2",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH12",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH12",
+          "treasureTag": "ROA-CH12",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "weapon",
+            "plus-two",
+            "hoard"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Nomad Fire Spirit Hoard Weapon +2 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8+2",
+        "shock": {
+          "ac": 13,
+          "dmg": 3
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-024",
+      "name": "Nomad Protection Ring",
+      "type": "item",
+      "img": "icons/equipment/finger/ring-band-gold.webp",
+      "folder": "ROA Items / ROA-CH12",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH12",
+          "treasureTag": "ROA-CH12",
+          "sources": [
+            "FRC1",
+            "WWN_MODULE"
+          ],
+          "tags": [
+            "ring",
+            "relic"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Nomad Protection Ring \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1, WWN_MODULE.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-025",
+      "name": "Kobold King Tribute Magic Roll",
+      "type": "item",
+      "img": "icons/svg/item-bag.svg",
+      "folder": "ROA Items / ROA-CH13",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH13",
+          "treasureTag": "ROA-CH13",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "treasure-roll"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Kobold King Tribute Magic Roll \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-026",
+      "name": "Wand of Hold Person",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH14",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH14",
+          "treasureTag": "ROA-CH14",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "wand",
+            "yarash"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Wand of Hold Person \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-027",
+      "name": "Yarash Bracers +2",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH14",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH14",
+          "treasureTag": "ROA-CH14",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "armor",
+            "plus-two"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Yarash Bracers +2 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-028",
+      "name": "Commandant Plate Armor +2",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH16",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH16",
+          "treasureTag": "ROA-CH16",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "armor",
+            "plus-two"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Commandant Plate Armor +2 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-029",
+      "name": "Zhentilar Diplomatic Packet",
+      "type": "item",
+      "img": "icons/svg/item-bag.svg",
+      "folder": "ROA Items / ROA-CH16",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH16",
+          "treasureTag": "ROA-CH16",
+          "sources": [
+            "FRC1",
+            "WWN_MODULE"
+          ],
+          "tags": [
+            "quest"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Zhentilar Diplomatic Packet \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1, WWN_MODULE.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-030",
+      "name": "Buccaneer Captain Longsword +2",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH17",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH17",
+          "treasureTag": "ROA-CH17",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "weapon",
+            "plus-two"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Buccaneer Captain Longsword +2 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8+2",
+        "shock": {
+          "ac": 13,
+          "dmg": 3
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-031",
+      "name": "Bracers AC 3 (Genheeris)",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH18",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH18",
+          "treasureTag": "ROA-CH18",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "armor",
+            "genheeris"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Bracers AC 3 (Genheeris) \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-032",
+      "name": "Cleric Scroll Bundle (Restoration)",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH18",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH18",
+          "treasureTag": "ROA-CH18",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "scroll",
+            "cleric"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Cleric Scroll Bundle (Restoration) \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-033",
+      "name": "Hammer +3",
+      "type": "weapon",
+      "img": "icons/weapons/maces/mace-round-steel.webp",
+      "folder": "ROA Items / ROA-CH18",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH18",
+          "treasureTag": "ROA-CH18",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "weapon",
+            "plus-three"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Hammer +3 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8+3",
+        "shock": {
+          "ac": 18,
+          "dmg": 2
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-034",
+      "name": "Longsword +2 (Lawful Good)",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH18",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH18",
+          "treasureTag": "ROA-CH18",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "weapon",
+            "plus-two",
+            "binding-candidate"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Longsword +2 (Lawful Good) \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8+2",
+        "shock": {
+          "ac": 13,
+          "dmg": 3
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-035",
+      "name": "Plate Armor +2",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH18",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH18",
+          "treasureTag": "ROA-CH18",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "armor",
+            "plus-two"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Plate Armor +2 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-036",
+      "name": "Potion of Extra Healing",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH18",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH18",
+          "treasureTag": "ROA-CH18",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "potion"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Potion of Extra Healing \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-037",
+      "name": "Ring of Fire Resistance",
+      "type": "item",
+      "img": "icons/equipment/finger/ring-band-gold.webp",
+      "folder": "ROA Items / ROA-CH18",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH18",
+          "treasureTag": "ROA-CH18",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "ring"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Ring of Fire Resistance \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-038",
+      "name": "Sling of Seeking +2",
+      "type": "weapon",
+      "img": "icons/weapons/bows/bow-recurve.webp",
+      "folder": "ROA Items / ROA-CH18",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH18",
+          "treasureTag": "ROA-CH18",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "weapon",
+            "plus-two"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Sling of Seeking +2 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d6+2",
+        "shock": {
+          "ac": 15,
+          "dmg": 2
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-039",
+      "name": "Two-Handed Sword +1 (+3 vs Undead)",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH18",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH18",
+          "treasureTag": "ROA-CH18",
+          "sources": [
+            "FRC1",
+            "WWN_MODULE"
+          ],
+          "tags": [
+            "council-issue",
+            "anti-undead"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Two-Handed Sword +1 (+3 vs Undead) \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1, WWN_MODULE.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d10+1",
+        "shock": {
+          "ac": 13,
+          "dmg": 2
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-040",
+      "name": "Wand of Lightning (3 charges)",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH18",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH18",
+          "treasureTag": "ROA-CH18",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "wand"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Wand of Lightning (3 charges) \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-041",
+      "name": "Wand of Magic Missiles (5 charges)",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH18",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH18",
+          "treasureTag": "ROA-CH18",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "wand"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Wand of Magic Missiles (5 charges) \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-042",
+      "name": "Disguise Wagon Fund (2500 silver)",
+      "type": "item",
+      "img": "icons/svg/item-bag.svg",
+      "folder": "ROA Items / ROA-CH19",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH19",
+          "treasureTag": "ROA-CH19",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "treasure",
+            "story"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Disguise Wagon Fund (2500 silver) \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-043",
+      "name": "Ring of Protection +2",
+      "type": "item",
+      "img": "icons/equipment/finger/ring-band-gold.webp",
+      "folder": "ROA Items / ROA-CH19",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH19",
+          "treasureTag": "ROA-CH19",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "ring",
+            "plus-two"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Ring of Protection +2 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-044",
+      "name": "Al-Hyam Equipment Set",
+      "type": "item",
+      "img": "icons/svg/item-bag.svg",
+      "folder": "ROA Items / ROA-CH20",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH20",
+          "treasureTag": "ROA-CH20",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "npc-gear"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Al-Hyam Equipment Set \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-045",
+      "name": "Cursed Crossed Swords (Valjevo Altar)",
+      "type": "item",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH20",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH20",
+          "treasureTag": "ROA-CH20",
+          "sources": [
+            "FRC1",
+            "WWN_MODULE"
+          ],
+          "tags": [
+            "cursed"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Cursed Crossed Swords (Valjevo Altar) \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1, WWN_MODULE.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-046",
+      "name": "Flame Tongue Longsword +2",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH20",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH20",
+          "treasureTag": "ROA-CH20",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "weapon",
+            "plus-two",
+            "flame-tongue"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Flame Tongue Longsword +2 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8+2",
+        "shock": {
+          "ac": 13,
+          "dmg": 3
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-047",
+      "name": "Gauntlets of Ogre Power",
+      "type": "item",
+      "img": "icons/svg/item-bag.svg",
+      "folder": "ROA Items / ROA-CH20",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH20",
+          "treasureTag": "ROA-CH20",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "wondrous",
+            "decoy"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Gauntlets of Ogre Power \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-048",
+      "name": "Javelin of Lightning",
+      "type": "weapon",
+      "img": "icons/weapons/bows/bow-recurve.webp",
+      "folder": "ROA Items / ROA-CH20",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH20",
+          "treasureTag": "ROA-CH20",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "weapon",
+            "javelin"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Javelin of Lightning \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d6",
+        "shock": {
+          "ac": 15,
+          "dmg": 2
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-049",
+      "name": "Longsword +1 (Valjevo NW)",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH20",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH20",
+          "treasureTag": "ROA-CH20",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "weapon",
+            "plus-one"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Longsword +1 (Valjevo NW) \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8+1",
+        "shock": {
+          "ac": 13,
+          "dmg": 2
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-050",
+      "name": "Longsword +5 (Decoy)",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH20",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH20",
+          "treasureTag": "ROA-CH20",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "weapon",
+            "decoy"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Longsword +5 (Decoy) \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8+5",
+        "shock": {
+          "ac": 13,
+          "dmg": 4
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-051",
+      "name": "Mace +3",
+      "type": "weapon",
+      "img": "icons/weapons/maces/mace-round-steel.webp",
+      "folder": "ROA Items / ROA-CH20",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH20",
+          "treasureTag": "ROA-CH20",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "weapon",
+            "plus-three"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Mace +3 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8+3",
+        "shock": {
+          "ac": 18,
+          "dmg": 2
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-052",
+      "name": "Necklace of Missiles",
+      "type": "item",
+      "img": "icons/svg/item-bag.svg",
+      "folder": "ROA Items / ROA-CH20",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH20",
+          "treasureTag": "ROA-CH20",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "wondrous"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Necklace of Missiles \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-053",
+      "name": "Plate Armor +1",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH20",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH20",
+          "treasureTag": "ROA-CH20",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "armor",
+            "plus-one"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Plate Armor +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-054",
+      "name": "Pool-Binding Longsword +2",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH20",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH20",
+          "treasureTag": "ROA-CH20",
+          "sources": [
+            "FRC1",
+            "WWN_MODULE"
+          ],
+          "tags": [
+            "finale",
+            "binding"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Pool-Binding Longsword +2 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1, WWN_MODULE.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8+2",
+        "shock": {
+          "ac": 13,
+          "dmg": 3
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-055",
+      "name": "Potion of Speed",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH20",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH20",
+          "treasureTag": "ROA-CH20",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "potion"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Potion of Speed \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-056",
+      "name": "Ring of Protection +3",
+      "type": "item",
+      "img": "icons/equipment/finger/ring-band-gold.webp",
+      "folder": "ROA Items / ROA-CH20",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH20",
+          "treasureTag": "ROA-CH20",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "ring",
+            "plus-three",
+            "decoy"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Ring of Protection +3 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-057",
+      "name": "Two-Handed Sword +2",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH20",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH20",
+          "treasureTag": "ROA-CH20",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "weapon",
+            "plus-two"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Two-Handed Sword +2 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d10+2",
+        "shock": {
+          "ac": 13,
+          "dmg": 3
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-058",
+      "name": "Bracers",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Bracers \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-059",
+      "name": "Bracers Of Defense",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Bracers Of Defense \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-060",
+      "name": "Bracers Of Defense Ac",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Bracers Of Defense Ac \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-061",
+      "name": "Chain",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Chain \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-062",
+      "name": "Chain  Mail",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Chain  Mail \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-063",
+      "name": "Chainmail",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Chainmail \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-064",
+      "name": "Chainmail +1",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Chainmail +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-065",
+      "name": "Dagger",
+      "type": "weapon",
+      "img": "icons/weapons/daggers/dagger-simple-silver.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Dagger \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-066",
+      "name": "Dagger +1",
+      "type": "weapon",
+      "img": "icons/weapons/daggers/dagger-simple-silver.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Dagger +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-067",
+      "name": "Dagger +2",
+      "type": "weapon",
+      "img": "icons/weapons/daggers/dagger-simple-silver.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Dagger +2 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-068",
+      "name": "Dagger +3",
+      "type": "weapon",
+      "img": "icons/weapons/daggers/dagger-simple-silver.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Dagger +3 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-069",
+      "name": "Hammer",
+      "type": "weapon",
+      "img": "icons/weapons/maces/mace-round-steel.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Hammer \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-070",
+      "name": "Hammer +1",
+      "type": "weapon",
+      "img": "icons/weapons/maces/mace-round-steel.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Hammer +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-071",
+      "name": "Long Sword",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Long Sword \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-072",
+      "name": "Mace",
+      "type": "weapon",
+      "img": "icons/weapons/maces/mace-round-steel.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Mace \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-073",
+      "name": "Morning  Star",
+      "type": "item",
+      "img": "icons/svg/item-bag.svg",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Morning  Star \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-074",
+      "name": "Morning  Star +1",
+      "type": "item",
+      "img": "icons/svg/item-bag.svg",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Morning  Star +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-075",
+      "name": "Plate",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Plate \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-076",
+      "name": "Plate Mail",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Plate Mail \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-077",
+      "name": "Plate Mail +1",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Plate Mail +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": false
+      }
+    },
+    {
+      "id": "ROA-ITM-078",
+      "name": "Potion Of  Heal",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Potion Of  Heal \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-079",
+      "name": "Potion Of Anything",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Potion Of Anything \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-080",
+      "name": "Potion Of Clair",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Potion Of Clair \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-081",
+      "name": "Potion Of Delusion",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Potion Of Delusion \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-082",
+      "name": "Potion Of Hero",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Potion Of Hero \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-083",
+      "name": "Potion Of Strength",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Potion Of Strength \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-084",
+      "name": "Scimitar",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Scimitar \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-085",
+      "name": "Shield",
+      "type": "armor",
+      "img": "icons/equipment/shield/heater-steel.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Shield \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": true
+      }
+    },
+    {
+      "id": "ROA-ITM-086",
+      "name": "Shield +2",
+      "type": "armor",
+      "img": "icons/equipment/shield/heater-steel.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Shield +2 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "ac": 7,
+        "aac": {
+          "value": 16,
+          "mod": 0
+        },
+        "traumaMod": 0,
+        "armorBonus": 0,
+        "type": "medium",
+        "isShield": true
+      }
+    },
+    {
+      "id": "ROA-ITM-087",
+      "name": "Short Sword",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Short Sword \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-088",
+      "name": "Short Sword +1",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Short Sword +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-089",
+      "name": "Short Sword +3",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Short Sword +3 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-090",
+      "name": "Sword",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Sword \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-091",
+      "name": "Sword +1",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Sword +1 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-092",
+      "name": "Sword +2",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Sword +2 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-093",
+      "name": "Sword +3",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Sword +3 \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-094",
+      "name": "Two-Handed Sword",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Two-Handed Sword \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": "",
+        "damage": "1d8",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-095",
+      "name": "Wand Of Cold",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Wand Of Cold \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-096",
+      "name": "Wand Of Cold And Ring Of Invisi",
+      "type": "item",
+      "img": "icons/equipment/finger/ring-band-gold.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Wand Of Cold And Ring Of Invisi \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-097",
+      "name": "Wand Of Confusion",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Wand Of Confusion \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-098",
+      "name": "Wand Of Fear",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Wand Of Fear \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-099",
+      "name": "Wand Of Fire",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Wand Of Fire \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-100",
+      "name": "Wand Of Lightning",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Wand Of Lightning \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-101",
+      "name": "Wand Of Magic",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Wand Of Magic \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-102",
+      "name": "Wand Of Magic Missiles",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Wand Of Magic Missiles \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-103",
+      "name": "Wand Of Paralyzation With Three",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Wand Of Paralyzation With Three \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "ROA-ITM-104",
+      "name": "Wand Of Secret Door And Trap",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "folder": "ROA Items / ROA-CH00",
+      "flags": {
+        "roa": {
+          "chapter": "ROA-CH00",
+          "treasureTag": "ROA-CH00",
+          "sources": [
+            "FRC1"
+          ],
+          "tags": [
+            "pdf-extract"
+          ]
+        }
+      },
+      "system": {
+        "description": "<p>Wand Of Secret Door And Trap \u2014 keyed treasure for Ruins of Adventure (WWN conversion).</p><p>Sources: FRC1.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    }
+  ]
+}
