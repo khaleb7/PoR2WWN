@@ -1,0 +1,11 @@
+{
+  "system": "wwn",
+  "pack": "roa-actors-npcs",
+  "actors": [
+    {"id":"ROA-NPC-001","name":"Cadorna","type":"npc","img":"icons/commodities/treasure/box-gold-trimwood.webp","folder":"ROA NPCs","flags":{"roa":{"chapter":"ROA-CH08"}},"system":{"notes":"Political broker with branching loyalty outcome."}},
+    {"id":"ROA-NPC-002","name":"Ohlo","type":"npc","img":"icons/magic/perception/orb-crystal-ball-scrying.webp","folder":"ROA NPCs","flags":{"roa":{"chapter":"ROA-CH01"}},"system":{"notes":"Early mission contact and magical advisor profile."}},
+    {"id":"ROA-NPC-003","name":"Norris the Gray","type":"npc","img":"icons/magic/time/hourglass-brown-orange.webp","folder":"ROA NPCs","flags":{"roa":{"chapter":"ROA-CH05"}},"system":{"notes":"Named bounty encounter in catacomb chain."}},
+    {"id":"ROA-NPC-004","name":"Al-Hyam Dazid","type":"npc","img":"icons/sundries/scrolls/scroll-bound-gold-red.webp","folder":"ROA NPCs","flags":{"roa":{"chapter":"ROA-CH20"}},"system":{"notes":"Lore-bearing NPC associated with finale journal clues."}},
+    {"id":"ROA-NPC-005","name":"Werner von Urslingen","type":"npc","img":"icons/equipment/head/crown-feather-gold-red.webp","folder":"ROA NPCs","flags":{"roa":{"chapter":"ROA-CH19"}},"system":{"notes":"Council-side finale mission issuer and transition figure."}}
+  ]
+}

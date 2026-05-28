@@ -1,0 +1,238 @@
+{
+  "system": "wwn",
+  "pack": "roa-rolltables",
+  "rolltables": [
+    {
+      "id": "ROA-RT-001",
+      "name": "ROA Dungeon Wandering Tier 1-2",
+      "formula": "1d12",
+      "replacement": true,
+      "displayRoll": true,
+      "results": [
+        {
+          "type": 0,
+          "text": "2 Kobolds per hero (ROA-MON-book-kobold)",
+          "weight": 2,
+          "range": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": 0,
+          "text": "2 Goblins per hero (ROA-MON-book-goblin)",
+          "weight": 2,
+          "range": [
+            3,
+            4
+          ]
+        },
+        {
+          "type": 0,
+          "text": "1 Orc per hero (ROA-MON-book-orc)",
+          "weight": 2,
+          "range": [
+            5,
+            6
+          ]
+        },
+        {
+          "type": 0,
+          "text": "1 Hobgoblin per hero (ROA-MON-book-hobgoblin)",
+          "weight": 2,
+          "range": [
+            7,
+            8
+          ]
+        },
+        {
+          "type": 0,
+          "text": "2 Skeletons per hero (ROA-MON-book-skeleton)",
+          "weight": 2,
+          "range": [
+            9,
+            10
+          ]
+        },
+        {
+          "type": 0,
+          "text": "1 Ogre per hero (ROA-MON-book-ogre)",
+          "weight": 2,
+          "range": [
+            11,
+            12
+          ]
+        }
+      ],
+      "flags": {
+        "roa": {
+          "chapterBands": [
+            "ROA-CH02",
+            "ROA-CH03",
+            "ROA-CH06",
+            "ROA-CH07"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ROA-RT-002",
+      "name": "ROA Wilderness West",
+      "formula": "1d12",
+      "replacement": true,
+      "displayRoll": true,
+      "results": [
+        {
+          "type": 0,
+          "text": "Wild Boar encounter",
+          "weight": 2,
+          "range": [
+            1,
+            2
+          ]
+        },
+        {
+          "type": 0,
+          "text": "Tiger encounter",
+          "weight": 1,
+          "range": [
+            3,
+            3
+          ]
+        },
+        {
+          "type": 0,
+          "text": "Centaur scouts",
+          "weight": 1,
+          "range": [
+            4,
+            4
+          ]
+        },
+        {
+          "type": 0,
+          "text": "Thri-kreen patrol",
+          "weight": 1,
+          "range": [
+            5,
+            5
+          ]
+        },
+        {
+          "type": 0,
+          "text": "Anhkheg emergence",
+          "weight": 1,
+          "range": [
+            6,
+            6
+          ]
+        },
+        {
+          "type": 0,
+          "text": "Bandit or nomad contact",
+          "weight": 3,
+          "range": [
+            7,
+            9
+          ]
+        },
+        {
+          "type": 0,
+          "text": "Stirge swarm",
+          "weight": 1,
+          "range": [
+            10,
+            10
+          ]
+        },
+        {
+          "type": 0,
+          "text": "Displacer beast sign",
+          "weight": 2,
+          "range": [
+            11,
+            12
+          ]
+        }
+      ],
+      "flags": {
+        "roa": {
+          "chapterBands": [
+            "ROA-CH17"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ROA-RT-003",
+      "name": "ROA Tavern Rumors",
+      "formula": "1d6",
+      "replacement": true,
+      "displayRoll": true,
+      "results": [
+        {
+          "type": 0,
+          "text": "Wells hide passages beneath Old Phlan.",
+          "weight": 1,
+          "range": [
+            1,
+            1
+          ]
+        },
+        {
+          "type": 0,
+          "text": "Valhingen is ruled by a cunning undead lord.",
+          "weight": 1,
+          "range": [
+            2,
+            2
+          ]
+        },
+        {
+          "type": 0,
+          "text": "A hidden thieves' school operates in occupied blocks.",
+          "weight": 1,
+          "range": [
+            3,
+            3
+          ]
+        },
+        {
+          "type": 0,
+          "text": "Nomads east of Phlan carry a potent relic.",
+          "weight": 1,
+          "range": [
+            4,
+            4
+          ]
+        },
+        {
+          "type": 0,
+          "text": "A silver dragon may aid foes of great evil.",
+          "weight": 1,
+          "range": [
+            5,
+            5
+          ]
+        },
+        {
+          "type": 0,
+          "text": "Zhentil interests are expanding near Phlan.",
+          "weight": 1,
+          "range": [
+            6,
+            6
+          ]
+        }
+      ],
+      "flags": {
+        "roa": {
+          "chapterBands": [
+            "ROA-CH01",
+            "ROA-HANDOUTS"
+          ]
+        }
+      }
+    }
+  ]
+}

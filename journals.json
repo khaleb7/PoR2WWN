@@ -1,0 +1,210 @@
+{
+  "system": "wwn",
+  "pack": "roa-journals",
+  "journals": [
+    {
+      "id": "ROA-HO-001",
+      "name": "ROA CH01 Civilized Phlan",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>New Phlan needs chartered adventurers to reclaim Old Phlan block by block.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Run city scenes; set mission board and rumor cadence.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH01"}}
+    },
+    {
+      "id": "ROA-HO-002",
+      "name": "ROA CH02 Slums",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Clear the first ruined block and prove the party can hold ground.</p>"}},
+        {"name":"GM Completion","type":"text","text":{"format":1,"content":"<p>Require key dens neutralized and proof for council payout.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH02"}}
+    },
+    {
+      "id": "ROA-HO-003",
+      "name": "ROA CH03 Sokol Keep",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Reclaim Sokol Keep and contain undead pressure on the approaches.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Use Ferran aftermath and silver-weapon telegraphing.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH03"}}
+    },
+    {
+      "id": "ROA-HO-004",
+      "name": "ROA CH04 Kuto's Well",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Delve Kuto's Well and uncover catacomb routes feeding the ruins.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Upper sectors wander; lower sectors are fixed encounter clusters.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH04"}}
+    },
+    {
+      "id": "ROA-HO-005",
+      "name": "ROA CH05 Kuto's Catacombs",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Eliminate hidden command elements beneath the city.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Run as fixed-key site with ambush and relic pressure.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH05"}}
+    },
+    {
+      "id": "ROA-HO-006",
+      "name": "ROA CH06 Mendor's Library",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Recover named tomes and pacify arcane hazards in the old library.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Book bounties and clue drops should drive later routes.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH06"}}
+    },
+    {
+      "id": "ROA-HO-007",
+      "name": "ROA CH07 Podol Plaza",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Break predator patrol cells and reopen market movement.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Track minimum defeated patrol groups for reportable success.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH07"}}
+    },
+    {
+      "id": "ROA-HO-008",
+      "name": "ROA CH08 Cadorna Textile House",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Recover treasury assets and resolve Cadorna's true alignment.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Branch outcomes: loyalist, opportunist, or exposed traitor.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH08"}}
+    },
+    {
+      "id": "ROA-HO-009",
+      "name": "ROA CH09 Kovel Mansion",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Destroy the elite theft network and seize leverage records.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Include trap architecture and social openings with infiltrators.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH09"}}
+    },
+    {
+      "id": "ROA-HO-010",
+      "name": "ROA CH10 Wealthy Area",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Secure noble blocks and deny resources to cult remnants.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Tie outcomes into Temple of Bane pressure clock.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH10"}}
+    },
+    {
+      "id": "ROA-HO-011",
+      "name": "ROA CH11 Temple of Bane",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Collapse Bane operations and break fanatic command.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Fanatics hold morale late; relic custody can affect reaction.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH11"}}
+    },
+    {
+      "id": "ROA-HO-012",
+      "name": "ROA CH12 Nomad Camp",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Earn alliance by diplomacy or force a decisive battlefield result.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Honor challenge format should matter for long-term faction stance.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH12"}}
+    },
+    {
+      "id": "ROA-HO-013",
+      "name": "ROA CH13 Kobold Kingdom",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Break kobold war-warren control and resolve bottle arc opportunity.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Use swarm pressure and trap tempo to drain resources.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH13"}}
+    },
+    {
+      "id": "ROA-HO-014",
+      "name": "ROA CH14 Sorcerer's Island",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>End Yarash's magical corruption and reopen river flow.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Run as scripted puzzle-site with escalating magical counters.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH14"}}
+    },
+    {
+      "id": "ROA-HO-015",
+      "name": "ROA CH15 Lizardman Lair",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Prevent lizardman alliance with the enemy coalition.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Apply anti-magic zone rule prominently in encounter setup.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH15"}}
+    },
+    {
+      "id": "ROA-HO-016",
+      "name": "ROA CH16 Zhentil Outpost",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Resolve Zhentil packet mission through infiltration, diplomacy, or battle.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Track command losses and leverage for downstream faction clocks.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH16"}}
+    },
+    {
+      "id": "ROA-HO-017",
+      "name": "ROA CH17 Wilderness Bands",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Navigate wilderness bands, optional lairs, and side objectives around Phlan.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Use west/central/east encounter tables and lair mini-sites.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH17"}}
+    },
+    {
+      "id": "ROA-HO-018",
+      "name": "ROA CH18 Valhingen Graveyard",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Undead pressure at Valhingen must be broken before final assault.</p>"}},
+        {"name":"GM Completion","type":"text","text":{"format":1,"content":"<p>Destroy ancient vampire and suppress spawner cycle to unlock Stojanow.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH18"}}
+    },
+    {
+      "id": "ROA-HO-019",
+      "name": "ROA CH19 Stojanow Gate",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Secure the gate under heavy resistance and open the castle route.</p>"}},
+        {"name":"GM Notes","type":"text","text":{"format":1,"content":"<p>Treat as assault pressure with every-turn checks.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH19"}}
+    },
+    {
+      "id": "ROA-HO-020",
+      "name": "ROA CH20 Tyranthraxus Finale",
+      "pages": [
+        {"name":"Player Briefing","type":"text","text":{"format":1,"content":"<p>Breach Valjevo's inner tower, defeat Tyranthraxus, and seal the Pool.</p>"}},
+        {"name":"GM Finale","type":"text","text":{"format":1,"content":"<p>Outer ring pressure, fixed inner sequence, and pool-banish end-state.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-CH20"}}
+    },
+    {
+      "id": "ROA-HO-100",
+      "name": "Council Proclamations",
+      "pages": [
+        {"name":"Player Handout","type":"text","text":{"format":1,"content":"<p>The Council seeks adventurers to reclaim Phlan. Verified clearances are paid in silver and gems.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-HANDOUTS"}}
+    },
+    {
+      "id": "ROA-HO-101",
+      "name": "Tavern Rumors",
+      "pages": [
+        {"name":"Player Handout","type":"text","text":{"format":1,"content":"<p>Rumors: hidden wells, undead lords, secret thieves, nomad relics, a silver dragon, and Zhentil expansion.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-HANDOUTS"}}
+    },
+    {
+      "id": "ROA-HO-102",
+      "name": "Journal Discovery Cues",
+      "pages": [
+        {"name":"GM Handout Index","type":"text","text":{"format":1,"content":"<p>Use this to drip Sokol diary, boss orders, library maps, and castle anti-pool clues.</p>"}}
+      ],
+      "flags":{"roa":{"chapter":"ROA-HANDOUTS"}}
+    }
+  ]
+}
