@@ -1,0 +1,142 @@
+{
+  "system": "wwn",
+  "pack": "por-items",
+  "items": [
+    {
+      "id": "POR-ITM-001",
+      "name": "Silver Dagger",
+      "type": "weapon",
+      "img": "icons/weapons/daggers/dagger-simple-silver.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["silvered", "assumed-gear"]}},
+      "system": {"description": "<p>A silvered dagger suitable for overcoming defenses vulnerable to silver weapons.</p>", "damage": "1d4", "shock": {"ac": 15, "dmg": 1}, "range": "", "price": 0, "weight": 1, "containerId": ""}
+    },
+    {
+      "id": "POR-ITM-002",
+      "name": "Silver Shortsword",
+      "type": "weapon",
+      "img": "icons/weapons/swords/shortsword-guard-bronze.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["silvered", "assumed-gear"]}},
+      "system": {"description": "<p>A silver-edged shortsword for undead and cursed foes.</p>", "damage": "1d6", "shock": {"ac": 15, "dmg": 1}, "range": "", "price": 0, "weight": 1, "containerId": ""}
+    },
+    {
+      "id": "POR-ITM-003",
+      "name": "Silver Longsword",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["silvered", "assumed-gear"]}},
+      "system": {"description": "<p>A silvered longsword keyed to adventure assumptions around silver-resistant enemies.</p>", "damage": "1d8", "shock": {"ac": 13, "dmg": 2}, "range": "", "price": 0, "weight": 1, "containerId": ""}
+    },
+    {
+      "id": "POR-ITM-004",
+      "name": "Silver Spear",
+      "type": "weapon",
+      "img": "icons/weapons/polearms/spear-wooden.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["silvered", "assumed-gear"]}},
+      "system": {"description": "<p>A silver-tipped spear used by crews expecting incorporeal or cursed opposition.</p>", "damage": "1d8", "shock": {"ac": 13, "dmg": 1}, "range": "", "price": 0, "weight": 1, "containerId": ""}
+    },
+    {
+      "id": "POR-ITM-005",
+      "name": "Silver Mace",
+      "type": "weapon",
+      "img": "icons/weapons/maces/mace-round-metal.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["silvered", "assumed-gear"]}},
+      "system": {"description": "<p>A silvered impact weapon favored for anti-undead work.</p>", "damage": "1d8", "shock": {"ac": 18, "dmg": 1}, "range": "", "price": 0, "weight": 1, "containerId": ""}
+    },
+    {
+      "id": "POR-ITM-006",
+      "name": "Silvered Arrow Bundle (20)",
+      "type": "item",
+      "img": "icons/weapons/ammunition/arrows-war-red.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["silvered", "ammo"]}},
+      "system": {"description": "<p>Twenty arrows treated as silvered for vulnerable targets.</p>", "price": 0, "weight": 1, "containerId": ""}
+    },
+    {
+      "id": "POR-ITM-007",
+      "name": "Silvered Bolt Bundle (20)",
+      "type": "item",
+      "img": "icons/weapons/ammunition/bolts-brown.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["silvered", "ammo"]}},
+      "system": {"description": "<p>Twenty crossbow bolts treated as silvered for vulnerable targets.</p>", "price": 0, "weight": 1, "containerId": ""}
+    },
+    {
+      "id": "POR-ITM-008",
+      "name": "Magic Weapon +1 (Sword Template)",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-gold-holy.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["magic-weapon", "plus-one", "template"]}},
+      "system": {"description": "<p>Template for a +1 enchanted sword. Duplicate and rename as needed.</p>", "damage": "1d8+1", "shock": {"ac": 13, "dmg": 2}, "range": "", "price": 0, "weight": 1, "containerId": ""}
+    },
+    {
+      "id": "POR-ITM-009",
+      "name": "Magic Weapon +1 (Mace Template)",
+      "type": "weapon",
+      "img": "icons/weapons/maces/mace-spiked-steel.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["magic-weapon", "plus-one", "template"]}},
+      "system": {"description": "<p>Template for a +1 enchanted mace. Duplicate and rename as needed.</p>", "damage": "1d8+1", "shock": {"ac": 18, "dmg": 1}, "range": "", "price": 0, "weight": 1, "containerId": ""}
+    },
+    {
+      "id": "POR-ITM-010",
+      "name": "Magic Weapon +2 (Sword Template)",
+      "type": "weapon",
+      "img": "icons/weapons/swords/greatsword-blue.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["magic-weapon", "plus-two", "template"]}},
+      "system": {"description": "<p>Template for a +2 enchanted sword. Duplicate and rename as needed.</p>", "damage": "1d8+2", "shock": {"ac": 13, "dmg": 3}, "range": "", "price": 0, "weight": 1, "containerId": ""}
+    },
+    {
+      "id": "POR-ITM-011",
+      "name": "Magic Weapon +2 (Spear Template)",
+      "type": "weapon",
+      "img": "icons/weapons/polearms/spear-flared-steel.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["magic-weapon", "plus-two", "template"]}},
+      "system": {"description": "<p>Template for a +2 enchanted spear. Duplicate and rename as needed.</p>", "damage": "1d8+2", "shock": {"ac": 13, "dmg": 2}, "range": "", "price": 0, "weight": 1, "containerId": ""}
+    },
+    {
+      "id": "POR-ITM-012",
+      "name": "Shield +1",
+      "type": "armor",
+      "img": "icons/equipment/shield/heater-crystal-blue.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["magic-armor", "plus-one"]}},
+      "system": {"description": "<p>A defensive enchanted shield; apply your table's WWN AC interpretation for magic shields.</p>", "ac": 1, "aac": {"value": 1, "mod": 0}, "traumaMod": 0, "armorBonus": 0, "type": "shield", "price": 0, "weight": 1, "isShield": true, "containerId": ""}
+    },
+    {
+      "id": "POR-ITM-013",
+      "name": "Armor +1 (Template)",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["magic-armor", "plus-one", "template"]}},
+      "system": {"description": "<p>Template for +1 enchanted armor; duplicate and tune by armor category.</p>", "ac": 7, "aac": {"value": 16, "mod": 0}, "traumaMod": 0, "armorBonus": 0, "type": "medium", "price": 0, "weight": 2, "isShield": false, "containerId": ""}
+    },
+    {
+      "id": "POR-ITM-014",
+      "name": "Amulet of Protection +1",
+      "type": "item",
+      "img": "icons/equipment/neck/amulet-round-blue.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["magic-item", "defense"]}},
+      "system": {"description": "<p>A protective amulet granting a +1 defensive benefit under your table's WWN magic item conventions.</p>", "price": 0, "weight": 0, "containerId": ""}
+    },
+    {
+      "id": "POR-ITM-015",
+      "name": "Ring of Protection +2",
+      "type": "item",
+      "img": "icons/equipment/finger/ring-band-gold.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["magic-item", "defense"]}},
+      "system": {"description": "<p>A high-tier protective ring for late-module treasure assumptions.</p>", "price": 0, "weight": 0, "containerId": ""}
+    },
+    {
+      "id": "POR-ITM-016",
+      "name": "Undead Ward Powder",
+      "type": "item",
+      "img": "icons/consumables/potions/powder-blue.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["anti-undead", "consumable"]}},
+      "system": {"description": "<p>Consumable warding dust used as anti-undead field prep for one encounter or scene.</p>", "price": 0, "weight": 0, "containerId": ""}
+    },
+    {
+      "id": "POR-ITM-017",
+      "name": "Council Writ of Reclamation",
+      "type": "item",
+      "img": "icons/sundries/scrolls/scroll-bound-gold-red.webp",
+      "flags": {"por": {"source": "03_Ruins_of_Adventure_WWN_GM_Module.md", "tags": ["proof", "mission-item"]}},
+      "system": {"description": "<p>Legal mission writ used to claim council payouts and verify chapter clearances.</p>", "price": 0, "weight": 0, "containerId": ""}
+    }
+  ]
+}

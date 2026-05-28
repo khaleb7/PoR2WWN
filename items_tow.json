@@ -1,0 +1,66 @@
+{
+  "system": "wwn",
+  "pack": "tow-items",
+  "items": [
+    {
+      "id": "TOW-ITM-001",
+      "name": "Blackglass Dagger",
+      "type": "weapon",
+      "img": "icons/weapons/daggers/dagger-jagged-black.webp",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "notes": "Custom module item starter entry."
+        }
+      },
+      "system": {
+        "description": "<p>A brittle but wickedly sharp ritual blade of blackened glass.</p>",
+        "damage": "1d6",
+        "shock": {
+          "ac": 15,
+          "dmg": 1
+        },
+        "range": "",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "TOW-ITM-002",
+      "name": "Warden's Salt Flask",
+      "type": "item",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "notes": "Custom anti-undead consumable starter entry."
+        }
+      },
+      "system": {
+        "description": "<p>Thrown consecrated salt that disrupts certain supernatural effects for one scene.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    },
+    {
+      "id": "TOW-ITM-003",
+      "name": "Howling Lantern",
+      "type": "item",
+      "img": "icons/sundries/lights/lantern-iron-lit-yellow.webp",
+      "flags": {
+        "tow": {
+          "source": "Those_Outside_The_Walls_-_A_WWN_Bestiary.pdf",
+          "notes": "Custom utility relic starter entry."
+        }
+      },
+      "system": {
+        "description": "<p>This lantern reveals unsettled spirits within near range while lit.</p>",
+        "price": 0,
+        "weight": 1,
+        "containerId": ""
+      }
+    }
+  ]
+}
